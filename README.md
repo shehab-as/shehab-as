@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shehab Abdel-Salam</h1>
-<h3 align="center">Working as a software engineer at Faculty.AI</h3>
+<h1 align="center">Hello world, I'm Shehab Abdel-Salam</h1>
+
+I am a software engineer with an interest in machine learning, backend engineering, teaching, solving complex problems, and writing.
 
 - I regularly write articles on [https://shehabmmohamed.github.io](https://shehabmmohamed.github.io)
 
 - How to reach me **shehab_m@aucegypt.edu**
 
-- About myself [https://shehabmmohamed.github.io/about/](https://shehabmmohamed.github.io/about/)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can reach me through:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shehab-abdel-salam-0a12ab97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehab-abdel-salam-0a12ab97/" height="30" width="40" /></a>
 </p>
