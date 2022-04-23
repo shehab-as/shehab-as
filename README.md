@@ -4,9 +4,9 @@ My name is Shehab Abdel-Salam, I am a software engineer with an interest in AI, 
 
 - I regularly write articles on [https://shehabmmohamed.github.io](https://shehabmmohamed.github.io)
 
-- How to reach me **shehab_m@aucegypt.edu**
+- You can reach me by email **shehab_m@aucegypt.edu**
 
-<h3 align="left">You can reach me through:</h3>
+<h3 align="left">You can also reach me through:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shehab-abdel-salam-0a12ab97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehab-abdel-salam-0a12ab97/" height="30" width="40" /></a>
 </p>
