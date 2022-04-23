@@ -1,6 +1,6 @@
-<h1 align="center">Hello world, I'm Shehab Abdel-Salam</h1>
+<h1 align="center">Hello world</h1>
 
-I am a software engineer with an interest in AI, backend engineering, teaching, solving complex problems, and writing.
+My name is Shehab Abdel-Salam, I am a software engineer with an interest in AI, backend engineering, teaching, solving complex problems, and writing.
 
 - I regularly write articles on [https://shehabmmohamed.github.io](https://shehabmmohamed.github.io)
 
