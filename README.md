@@ -1,10 +1,10 @@
-<h1 align="center">Hello world</h1>
+<h1 align="center">Hello world!</h1>
 
-My name is Shehab Abdel-Salam, I am a software engineer with an interest in AI, backend engineering, teaching, solving complex problems, and writing.
+My name is Shehab Abdel-Salam, I am a software engineer interested in AI, backend development, distributed systems, solving complex problems, and teaching.
 
-- I regularly write articles on [https://shehabmmohamed.github.io](https://shehabmmohamed.github.io)
+- I write articles on [https://shehabmmohamed.github.io](https://shehabmmohamed.github.io)
 
-- You can reach me by email **shehab_m@aucegypt.edu**
+- You can reach me on **shehab_m@aucegypt.edu**
 
 <h3 align="left">You can also reach me through:</h3>
 <p align="left">
