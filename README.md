@@ -2,7 +2,7 @@
 
 My name is Shehab Abdel-Salam, I am a software engineer interested in AI, backend development, and distributed systems.
 
-- I usually write articles on [https://shehabmmohamed.github.io](https://shehabmmohamed.github.io)
+- I usually write articles on [https://shehab-as.github.io](https://shehab-as.github.io)
 - You can reach me through email **shehab_m@aucegypt.edu** or on <a href="https://www.linkedin.com/in/shehab-abdel-salam-0a12ab97/">LinkedIn</a>
 
 
