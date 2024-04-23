@@ -1,6 +1,6 @@
 <h1 align="center">Hello world!</h1>
 
-Hello! I'm Shehab Abdel-Salam, a Software Engineer primarily focused on Backend Engineering and Software Architecture.
+I'm Shehab Abdel-Salam, a Software Engineer primarily focused on Backend Engineering and Software Architecture.
 
 - I usually write blogs on [https://shehab-as.github.io](https://shehab-as.github.io)
 
