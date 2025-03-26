@@ -2,7 +2,7 @@
 
 I'm Shehab, a Skilled Software Engineer with focus on Backend Engineering and Software Architecture.
 
-I write a weekly newsletter called [The Proactive Engineer](https://www.proactiveengineer.com)
+I write a weekly newsletter called _**The Proactive Engineer**_ (www.proactiveengineer.com)
 
 See previous projects on  [https://www.shehababdelsalam.com/projects](https://www.shehababdelsalam.com/projects)
 
